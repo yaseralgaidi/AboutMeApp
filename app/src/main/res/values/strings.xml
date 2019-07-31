@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="Name">Yaser</string>
+    <string name="FaresAlBishi">Yaser Algaidi</string>
+    <string name="rfssd">yellow star</string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="ABOUTME">I guess I like pineapple pizza
+    </string>
+</resources>
